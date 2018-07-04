@@ -5,7 +5,7 @@ Vasil uses the bootstrap 4. The core bootstrap file is being used in all the pag
 
 ## Preview
 
-* Check the live website [Here](https://msmatki.github.io/Vasil-Template/)
+* Check the live website [Here](https://msmatki.github.io/LifeInsight-Template/)
 
 ## Libraries 
 
